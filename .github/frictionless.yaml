@@ -1,0 +1,4 @@
+main:
+  tasks:
+    - source: btc-price-postprocessed.json
+      type: table
