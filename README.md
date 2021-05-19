@@ -1,5 +1,7 @@
 # Flat Data Demo - Bitcoin Price
 
+[![Flat](https://github.com/roll/flat-demo-bitcoin-price/actions/workflows/flat.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=roll&repo=flat-demo-bitcoin-price&flow=flat)
+
 This demo is part of a larger Flat Data project created by [GitHub OCTO](https://octo.github.com/). Read more about the project [here](https://octo.github.com/projects/flat-data).
 
 ## What this demo does
