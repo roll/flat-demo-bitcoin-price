@@ -1,4 +1,11 @@
 main:
   tasks:
-    - source: btc-price-postprocessed.json
-      type: table
+    - path: btc-price-postprocessed.json
+      schema:
+        fields:
+          - name: currency
+            type: string
+          - name: bitcoinRate
+            type: number
+            constraints:
+              maximum: 40000
